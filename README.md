@@ -10,5 +10,5 @@ Trying to improve my programming skills in Python <img src="https://www.jing.fm/
 
 ## Contact
 
-<a href = "mailto: joeltabernefernandez@gmail.com"><img src="https://image.flaticon.com/icons/png/512/281/281769.png" width="30px" Hieght="30px" ></a>
-<a href = "https://www.linkedin.com/in/joeltabernefernandez/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" width="30px" Hieght="30px" ></a>
+<a href="mailto: joeltabernefernandez@gmail.com"><img src="https://image.flaticon.com/icons/png/512/281/281769.png" width="30px" Hieght="30px" ></a>
+<a href="https://www.linkedin.com/in/joeltabernefernandez/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" width="30px" Hieght="30px" ></a>
