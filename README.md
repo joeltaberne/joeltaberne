@@ -6,7 +6,7 @@ I also have great skills and experience with Docker <img src="https://www.docker
 
 I'm currently working in continuous integration and deployment with Gitlab CI/CD technology <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/1200px-GitLab_Logo.svg.png" width="17px" Hieght="17px" >
 
-Trying to improve my programming skills in Python <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" width="15px" Hieght="15px" > and some other languages <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" width="21px" Hieght="21px" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="16px" Hieght="16px" >
+Trying to improve my coding skills in Python <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" width="15px" Hieght="15px" > and some other languages <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" width="21px" Hieght="21px" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="16px" Hieght="16px" >
 
 ## Contact
 
